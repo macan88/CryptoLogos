@@ -14,22 +14,22 @@ const CHAINS = {
   ETHEREUM: {
     path: 'ethereum',
     explorer: 'https://etherscan.io',
-    list: 'https://info.digidex.finance/list'
+    list: 'https://api2.digidex.finance/list'
   },
   POLYGON: {
     path: 'polygon',
     explorer: 'https://polygonscan.com',
-    list: 'https://info.digidex.finance/quickswap/list'
+    list: 'https://api2.digidex.finance/quickswap/list'
   },
   BSC: {
     path: 'bsc',
     explorer: 'https://bscscan.com',
-    list: 'https://info.digidex.finance/pancake/list'
+    list: 'https://api2.digidex.finance/pancake/list'
   },
   FANTOM: {
     path: 'fantom',
     explorer: 'https://ftmscan.com',
-    list: 'https://info.digidex.finance/spiritswap/list'
+    list: 'https://api2.digidex.finance/spiritswap/list'
   }
 }
 
